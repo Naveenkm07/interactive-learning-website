@@ -4,7 +4,26 @@ A modern, AI-powered platform to supercharge your tech learning journey. This in
 
 [![GitHub Repo](https://img.shields.io/github/stars/Naveenkm07/interactive-learning-website?style=social)](https://github.com/Naveenkm07/interactive-learning-website)
 
-## 🌟 Key Features
+---
+
+## 🚀 Live Demo
+
+> **Coming Soon:** [Live Demo Link](#)
+
+---
+
+## 🖼️ Screenshots
+
+| Dashboard | AI Chat Mentor | Learning Path |
+|-----------|---------------|--------------|
+| ![Dashboard](public/images/ai-dev.jpg) | ![AI Chat](public/images/ai-dev.jpg) | ![Learning Path](public/images/edge-computing.jpg) |
+
+_Add your own screenshots for each section above!_
+
+---
+
+## 🌟 Features
+
 - **Personal Dashboard:** Visualize your learning stats, activities, and progress
 - **AI Chat Mentor:** Get instant help, guidance, and feedback from an AI-powered chatbot
 - **Quizzes & Assessments:** Test your knowledge with interactive quizzes and coding challenges
@@ -15,7 +34,18 @@ A modern, AI-powered platform to supercharge your tech learning journey. This in
 - **Mentorship & Community:** Connect with mentors and peers (demo UI)
 - **Modern UI:** Responsive, clean, and user-friendly design
 
-## 🚀 Quick Start
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, Vite, CSS3
+- **Backend:** Node.js (for scraping, if used)
+- **AI:** OpenAI API (for chatbot, if integrated)
+- **Other:** GitHub Actions, ESLint, Prettier
+
+---
+
+## ⚡ Quick Start
 
 1. **Clone the repository:**
    ```bash
@@ -33,24 +63,47 @@ A modern, AI-powered platform to supercharge your tech learning journey. This in
 4. **Open in your browser:**
    Visit [http://localhost:5173](http://localhost:5173)
 
-## 🛠️ Build for Production
+---
+
+## 📦 Build for Production
+
 ```bash
 npm run build
 ```
 
+---
+
 ## 📚 Usage
+
 - Explore the dashboard to view your learning stats
 - Use the AI Chat Mentor for instant help
 - Take quizzes and assessments to test your skills
 - Follow learning paths and complete projects
 - Optimize your resume and connect with the community
 
+---
+
 ## 🤝 Contributing
-We welcome contributions! Please open an issue or submit a pull request for improvements, bug fixes, or new features.
+
+We welcome contributions!
+1. Fork the repo
+2. Create your feature branch (`git checkout -b feature/YourFeature`)
+3. Commit your changes (`git commit -am 'Add new feature'`)
+4. Push to the branch (`git push origin feature/YourFeature`)
+5. Open a Pull Request
+
+---
 
 ## 📄 License
+
 This project is licensed under the MIT License.
 
 ---
 
-*Made with ❤️ by [Naveenkm07](https://github.com/Naveenkm07)* 
+## 🙋‍♂️ Contact
+
+For questions, feedback, or collaboration, reach out via [GitHub Issues](https://github.com/Naveenkm07/interactive-learning-website/issues) or connect on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
+
+---
+
+_Made with ❤️ by [Naveenkm07](https://github.com/Naveenkm07)_ 
