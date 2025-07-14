@@ -197,4 +197,68 @@ Join our community on Discord: [Coming Soon!]
 
 ---
 
+## 🆘 Getting Help
+
+If you have questions, need support, or want to request a feature, please open an [issue](https://github.com/Naveenkm07/interactive-learning-website/issues) or start a [discussion](https://github.com/Naveenkm07/interactive-learning-website/discussions).
+
+---
+
+## 🗺️ Roadmap
+
+- [x] Personal dashboard
+- [x] AI chat mentor
+- [x] Quizzes & assessments
+- [x] Learning paths
+- [x] Resume optimizer
+- [ ] Mobile app version
+- [ ] More integrations (LinkedIn, Google Drive, etc.)
+- [ ] Gamification features
+- [ ] Internationalization (i18n)
+
+---
+
+## 👥 Contributors
+
+Thanks to these wonderful people:
+
+<a href="https://github.com/Naveenkm07"><img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="50" /></a>
+<!-- Add more contributors as needed -->
+
+---
+
+## 📊 GitHub Stats
+
+![Naveenkm07's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naveenkm07&show_icons=true&theme=radical)
+
+---
+
+## 🌐 Community & Social
+
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [Twitter](https://twitter.com/your-twitter)
+- [Discord](#) (coming soon)
+
+---
+
+## 🧪 Running Tests
+
+To run all tests:
+```bash
+npm run test
+```
+
+---
+
+## 💖 Sponsor
+
+If you find this project useful, consider [sponsoring me](https://github.com/sponsors/Naveenkm07) or starring the repo!
+
+---
+
+## 🎉 Fun Fact
+
+Did you know? This project was started as a personal challenge to build the ultimate learning dashboard!
+
+---
+
 _Made with ❤️ by [Naveenkm07](https://github.com/Naveenkm07)_ 
