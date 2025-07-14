@@ -52,12 +52,21 @@ This project is built for you! Whether you’re preparing for interviews, upskil
 
 ---
 
-## 🖼️ Screenshots
-| Dashboard | AI Chat Mentor | Learning Path |
-|-----------|---------------|--------------|
-| ![Dashboard](public/images/ai-dev.jpg) | ![AI Chat](public/images/ai-dev.jpg) | ![Learning Path](public/images/edge-computing.jpg) |
+## 🖼️ Screenshots & Gallery
 
-_Add your own screenshots for each section above!_
+Below are some highlights of the Interactive Learning Website in action:
+
+| Dashboard Overview | AI Chat Mentor | Learning Path |
+|--------------------|---------------|--------------|
+| ![Dashboard](public/images/Screenshot%202025-07-14%20111905.png) | ![AI Chat](public/images/Screenshot%202025-07-14%20111916.png) | ![Learning Path](public/images/Screenshot%202025-07-14%20111928.png) |
+
+| Quiz & Assessment | Project Workspace | Resume Optimizer |
+|-------------------|------------------|------------------|
+| ![Quiz](public/images/Screenshot%202025-07-14%20111938.png) | ![Project](public/images/Screenshot%202025-07-14%20111945.png) | ![Resume](public/images/Screenshot%202025-07-14%20111958.png) |
+
+| Community & Mentorship | Industry Insights | Settings/Profile |
+|------------------------|-------------------|------------------|
+| ![Community](public/images/Screenshot%202025-07-14%20112010.png) | ![Insights](public/images/Screenshot%202025-07-14%20112021.png) | ![Settings](public/images/Screenshot%202025-07-14%20112041.png) |
 
 ---
 
